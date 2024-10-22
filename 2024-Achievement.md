@@ -4,7 +4,7 @@
 
 ## 9 May 2024
 
-* I have been a Teach Assistance(TA) Docker class (Docker unpacked Essentials of Container Technology) AKA Docker 101
+* I have being a Teach Assistance(TA) Docker class (Docker unpacked Essentials of Container Technology) AKA Docker 101
 
 
 ## 16 August 2024 ##
@@ -14,3 +14,6 @@
 ## 19 August 2024 ##
 
 * Sharing knowledge As a facilitator should be fit in the role providing from class Being facilitator
+
+## 05 October 2024 ##
+* I have being a Teach Assistance(TA) of class cypress Automate test as a TA I have teaching the part of applying cypress to Docker and help the trainee of the rest of the day
